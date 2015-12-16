@@ -1,4 +1,4 @@
-Spammwe (spammer-bot)
+Spammer (spammer-bot)
 ============
 
 [![Donate button](https://img.shields.io/badge/nepal-donate-yellow.svg)](http://www.nrcs.org/donate-nrcs "Donate to Nepal Red Cross Society")
